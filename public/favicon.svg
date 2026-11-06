@@ -1,0 +1,17 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="64" height="64" rx="14" fill="#ffffff"/>
+  <!-- Arc crest: outer navy, inner aqua -->
+  <path d="M 6 30 C 18 28, 28 8, 40 5 C 50 3, 57 14, 58 22"
+        stroke="#0D3349" stroke-width="3.5" stroke-linecap="round" fill="none"/>
+  <path d="M 12 30 C 22 24, 31 12, 43 9 C 52 7, 57 17, 58 25"
+        stroke="#4EA3CA" stroke-width="1.8" stroke-linecap="round" fill="none"/>
+  <!-- Monogram -->
+  <text x="9" y="56"
+        font-family="Montserrat, 'Plus Jakarta Sans', system-ui, sans-serif"
+        font-weight="800" font-size="22" letter-spacing="-0.5"
+        fill="#0D3349">Aq</text>
+  <text x="37" y="56"
+        font-family="Montserrat, 'Plus Jakarta Sans', system-ui, sans-serif"
+        font-weight="800" font-size="22" letter-spacing="-0.5"
+        fill="#C93917">R</text>
+</svg>
